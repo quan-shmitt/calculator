@@ -10,6 +10,8 @@ C:\Users\emily-mh\source\repos\calculator\calculator\obj\Debug\calculator.exe
 C:\Users\emily-mh\source\repos\calculator\calculator\obj\Debug\calculator.pdb
 C:\Users\emily-mh\source\repos\calculator\calculator\obj\Debug\calculator.Form1.resources
 C:\Users\emily-mh\OneDrive\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\emily-mh\OneDrive\calculator\calculator\bin\Debug\calculator.exe.manifest
+C:\Users\emily-mh\OneDrive\calculator\calculator\bin\Debug\calculator.application
 C:\Users\emily-mh\OneDrive\calculator\calculator\bin\Debug\calculator.exe
 C:\Users\emily-mh\OneDrive\calculator\calculator\bin\Debug\calculator.pdb
 C:\Users\emily-mh\OneDrive\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
@@ -18,5 +20,7 @@ C:\Users\emily-mh\OneDrive\calculator\calculator\obj\Debug\calculator.Form1.reso
 C:\Users\emily-mh\OneDrive\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
 C:\Users\emily-mh\OneDrive\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
 C:\Users\emily-mh\OneDrive\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\emily-mh\OneDrive\calculator\calculator\obj\Debug\calculator.exe.manifest
+C:\Users\emily-mh\OneDrive\calculator\calculator\obj\Debug\calculator.application
 C:\Users\emily-mh\OneDrive\calculator\calculator\obj\Debug\calculator.exe
 C:\Users\emily-mh\OneDrive\calculator\calculator\obj\Debug\calculator.pdb
