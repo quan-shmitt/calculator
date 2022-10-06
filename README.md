@@ -1,4 +1,4 @@
 # calculator
 ### simple calculator windows form app
 
-simple test repository as i learn the ins and outs of github
+a test repository as i learn the in's and out's of github
